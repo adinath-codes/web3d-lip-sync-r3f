@@ -17,7 +17,7 @@ Built with **React Three Fiber**, **TailwindCSS**, and modern 3D workflows for a
 
 ## 🖥️ Demo
 
-👉 [Live Demo]([https://your-demo-link.com](https://drive.google.com/file/d/19wCFGtWCevs8eYunqEpQFlHTPqfW23sK/view?usp=sharing)) 
+👉 [Live Demo]([https://drive.google.com/file/d/19wCFGtWCevs8eYunqEpQFlHTPqfW23sK/view?usp=sharing])
 
 <p align="center">
   <img src="https://github.com/your-username/your-repo-name/raw/main/demo.gif" width="600" alt="3D Lip Sync Demo" />
@@ -42,3 +42,4 @@ Clone the repo and install dependencies:
 git clone https://github.com/your-username/3d-lip-sync-model.git
 cd 3d-lip-sync-model
 npm install
+
